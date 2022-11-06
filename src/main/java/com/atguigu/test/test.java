@@ -13,5 +13,6 @@ public class test {
         System.out.println("hello test4 -- hot-fix");
         System.out.println("master test");
         System.out.println("hello test5 -- hot-fix");
+        System.out.println("push test");
     }
 }
